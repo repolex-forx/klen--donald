@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/klen/donald/commit/d48bf0f0f91a758cfb0498e83fda6d5aff4ecb91",
       "git:hexsha": "d48bf0f0f91a758cfb0498e83fda6d5aff4ecb91",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "3.0.1"
     },
     {
