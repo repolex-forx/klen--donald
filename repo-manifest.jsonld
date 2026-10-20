@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/klen/donald/commit/d48bf0f0f91a758cfb0498e83fda6d5aff4ecb91",
       "git:hexsha": "d48bf0f0f91a758cfb0498e83fda6d5aff4ecb91",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "3.0.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "3.0.1",
+      "repolex:parsedAt": "2026-10-20T21:32:38.514315+00:00"
     },
     {
       "@id": "https://repolex.ai/r/klen/donald/commit/b3e037a02a374c5c073ce45e783ba2831500776c",
